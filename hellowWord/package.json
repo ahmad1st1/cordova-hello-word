@@ -1,0 +1,16 @@
+{
+  "name": "hellowword",
+  "version": "1.0.0",
+  "description": "This hello word plugin for ionic 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ionic",
+    "HellowWord",
+    "TestPlugin"
+  ],
+  "author": "Ahmad Jamal",
+  "license": "ISC"
+}
